@@ -16,9 +16,13 @@ This is the repo corresponding to the paper:
 
 
 ## Documentation 
-Will follow in the near future (this version requires tensorflow 1.13)
+Will follow in the near future (this version requires tensorflow 1.13 and python 3)
 
+If the environment is set up correctly, the following command should start all computations needed for the statistical test described in the paper:
 
+```console
+user@host:~$ python3 stat_test.py
+```
 
 
 
