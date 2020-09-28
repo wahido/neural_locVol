@@ -2,16 +2,34 @@
 
 Authors: 
 
-Christa Cuchiero (University of Vienna)
+Christa Cuchiero (University of Vienna), [Homepage](https://www.mat.univie.ac.at/~cuchiero/)
 
-Wahid Khosrawi (ETH Zurich)
+Wahid Khosrawi (ETH Zurich), [Homepage](https://people.math.ethz.ch/~kwahid/)
 
-Josef Teichmann (ETH Zurich)
+Josef Teichmann (ETH Zurich), [Homepage](https://people.math.ethz.ch/~jteichma/)
 
 This is the repo corresponding to the paper:
 
-[A generative adversarial network approach to calibration of local stochastic volatility models (submitted)](https://arxiv.org/abs/2005.02505)
+[A Generative Adversarial Network Approach to Calibration of Local Stochastic Volatility Models](https://www.mdpi.com/2227-9091/8/4/101)
 
+For citations:\
+**MDPI and ACS Style**\
+Cuchiero, C.; Khosrawi, W.; Teichmann, J. A Generative Adversarial Network Approach to Calibration of Local Stochastic Volatility Models. Risks **2020**, 8(4), 101.
+```
+@Article{cuchiero2020generative,
+  author    = {Cuchiero, Christa and Khosrawi, Wahid and Teichmann, Josef},
+  title     = {A Generative Adversarial Network Approach to Calibration of Local Stochastic Volatility Models},
+  journal   = {Risks},
+  year      = {2020},
+  volume    = {8},
+  number    = {4},
+  pages     = {101},
+  doi       = {10.3390/risks8040101},
+  keywords  = {LSV calibration; neural SDEs; generative adversarial networks; deep hedging; variance reduction; stochastic optimization},
+  publisher = {MDPI},
+  url       = {https://www.mdpi.com/2227-9091/8/4/101},
+}
+```
 
 
 
